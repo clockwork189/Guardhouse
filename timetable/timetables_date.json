@@ -1,0 +1,180 @@
+{
+    "items": [
+		{
+			"name": "Roger Hodgson",
+			"image": "roger_hodgson.jpg",
+			"date": "1",
+			"month": "12",
+			"year": "2016",
+			"start_time": "09:30",
+			"end_time": "11:00",
+			"color": "4",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Lucha Libre",
+			"image": "lucha_libre.jpg",
+			"date": "3",
+			"month": "12",
+			"year": "2016",
+			"start_time": "13:30",
+			"end_time": "15:00",
+			"color": "3",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Lucha Libre",
+			"image": "lucha_libre.jpg",
+			"date": "4",
+			"month": "12",
+			"year": "2016",
+			"start_time": "10:30",
+			"end_time": "12:00",
+			"color": "3",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Roger Hodgson",
+			"image": "roger_hodgson.jpg",
+			"date": "7",
+			"month": "12",
+			"year": "2016",
+			"start_time": "09:30",
+			"end_time": "11:30",
+			"color": "4",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Lucha Libre",
+			"image": "lucha_libre.jpg",
+			"date": "7",
+			"month": "12",
+			"year": "2016",
+			"start_time": "13:30",
+			"end_time": "15:00",
+			"color": "1",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Roger Hodgson",
+			"image": "roger_hodgson.jpg",
+			"date": "9",
+			"month": "12",
+			"year": "2016",
+			"start_time": "10:00",
+			"end_time": "11:30",
+			"color": "2",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Festival of Praise Tour",
+			"image": "festival_of_praise_tour.jpg",
+			"date": "12",
+			"month": "12",
+			"year": "2016",
+			"start_time": "09:30",
+			"end_time": "11:00",
+			"color": "2",
+			"description": "HEZEKIAH WALKER , ISRAEL HOUGHTON, REGINA BELLE, FRED HAMMOND, CASEY J, KAREN - CLARKE - SHEARD, COMEDIAN EARTHQUAKE<br><br>Tickets:<br>$52.50 Row 1-5<br>$47.50 Row 6-13<br>$37.50 Row 14-20<br>$27.50 Row 21-25"
+		},
+		{
+			"name": "Musiq SoulChild - Grown & Sexy 16",
+			"image": "musiq_soulchild.jpg",
+			"date": "12",
+			"month": "12",
+			"year": "2016",
+			"start_time": "14:00",
+			"end_time": "15:30",
+			"color": "1",
+			"description": "Grown & Sexy 16<br>Musiq SoulChild and Avant<br><br>Tickets:<br>$55.00 - Row 1-5<br>$45.00 - Row 6-13<br>$35.00 - Row 14-20<br>$20.00 - Row 21-25"
+		},
+		{
+			"name": "Musiq SoulChild - Grown & Sexy 16",
+			"image": "musiq_soulchild.jpg",
+			"date": "15",
+			"month": "12",
+			"year": "2016",
+			"start_time": "10:00",
+			"end_time": "11:30",
+			"color": "4",
+			"description": "Grown & Sexy 16<br>Musiq SoulChild and Avant<br><br>Tickets:<br>$55.00 - Row 1-5<br>$45.00 - Row 6-13<br>$35.00 - Row 14-20<br>$20.00 - Row 21-25"
+		},
+		{
+			"name": "Lucha Libre",
+			"image": "lucha_libre.jpg",
+			"date": "17",
+			"month": "12",
+			"year": "2016",
+			"start_time": "14:00",
+			"end_time": "15:00",
+			"color": "3",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Roger Hodgson",
+			"image": "roger_hodgson.jpg",
+			"date": "20",
+			"month": "12",
+			"year": "2016",
+			"start_time": "09:30",
+			"end_time": "11:00",
+			"color": "3",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Lucha Libre",
+			"image": "lucha_libre.jpg",
+			"date": "21",
+			"month": "12",
+			"year": "2016",
+			"start_time": "11:30",
+			"end_time": "13:30",
+			"color": "2",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Roger Hodgson",
+			"image": "roger_hodgson.jpg",
+			"date": "21",
+			"month": "12",
+			"year": "2016",
+			"start_time": "14:00",
+			"end_time": "15:30",
+			"color": "4",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Roger Hodgson",
+			"image": "roger_hodgson.jpg",
+			"date": "24",
+			"month": "12",
+			"year": "2016",
+			"start_time": "12:00",
+			"end_time": "14:30",
+			"color": "1",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Roger Hodgson",
+			"image": "roger_hodgson.jpg",
+			"date": "26",
+			"month": "12",
+			"year": "2016",
+			"start_time": "13:30",
+			"end_time": "15:30",
+			"color": "4",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros. Ut pharetra ornare lorem, sit amet bibendum quam imperdiet ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam non ornare eros."
+		},
+		{
+			"name": "Festival of Praise Tour",
+			"image": "festival_of_praise_tour.jpg",
+			"date": "29",
+			"month": "12",
+			"year": "2016",
+			"start_time": "09:30",
+			"end_time": "12:00",
+			"color": "2",
+			"description": "HEZEKIAH WALKER , ISRAEL HOUGHTON, REGINA BELLE, FRED HAMMOND, CASEY J, KAREN - CLARKE - SHEARD, COMEDIAN EARTHQUAKE<br><br>Tickets:<br>$52.50 Row 1-5<br>$47.50 Row 6-13<br>$37.50 Row 14-20<br>$27.50 Row 21-25"
+		}
+	]
+}

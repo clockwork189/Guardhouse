@@ -1,0 +1,95 @@
+{
+    "items": [
+		
+		{
+			"name": "Gi Fundamentals",
+			"image": "gi_fund.jpg",
+			"day": "monday",
+			"start_time": "18:00",
+			"end_time": "19:00",
+			"color": "1",
+			"description": "Our fundamentals class focuses on the core techniques and positions of BJJ. In this class students learn  takedowns, submissions, escapes, and self defense while keeping the beginner in mind. It’s a great chance for beginners to become more familiar on the mats, and for higher belts to sharpen their skills. Fundamentals is also a great warm up for the the following class, so stick around and learn how to build onto your core techniques."
+		},
+		{
+			"name": "Gi BJJ",
+			"image": "gi.jpg",
+			"day": "monday",
+			"start_time": "19:00",
+			"end_time": "21:30",
+			"color": "2",
+			"description": "Take your game to the next level by delving into more complex and modern jiu jitsu techniques. Learn core concepts, attacks, escapes, and how to utilize the gi to your advantage. Open to any belt rank and new students as well."
+		},
+				{
+			"name": "No Gi BJJ",
+			"image": "nogi.jpg",
+			"day": "tuesday",
+			"start_time": "19:00",
+			"end_time": "21:30",
+			"color": "5",
+			"description": "Our no-gi classes give students the opportunity to learn jiu-jitsu that is effective without the gi. Learn how to adapt your techniques to a no-gi setting, learn effective no-gi takedowns, and pick up new attacks and defensive techniques to grow both your no-gi and gi jiu jitsu game!"
+		},
+				{
+			"name": "Gi Fundamentals",
+			"image": "gi_fund.jpg",
+			"day": "wednesday",
+			"start_time": "18:00",
+			"end_time": "19:00",
+			"color": "1",
+			"description": "Our fundamentals class focuses on the core techniques and positions of BJJ. In this class students learn  takedowns, submissions, escapes, and self defense while keeping the beginner in mind. It’s a great chance for beginners to become more familiar on the mats, and for higher belts to sharpen their skills. Fundamentals is also a great warm up for the the following class, so stick around and learn how to build onto your core techniques."
+		},
+		{
+			"name": "Gi BJJ",
+			"image": "gi.jpg",
+			"day": "wednesday",
+			"start_time": "19:00",
+			"end_time": "21:30",
+			"color": "2",
+			"description": "Take your game to the next level by delving into more complex and modern jiu jitsu techniques. Learn core concepts, attacks, escapes, and how to utilize the gi to your advantage. Open to any belt rank and new students as well."
+		},
+		{
+			"name": "Kids Gi BJJ",
+			"image": "kids.jpg",
+			"day": "thursday",
+			"start_time": "17:30",
+			"end_time": "18:30",
+			"color": "8",
+			"description": "Learn fundamental jiu jitsu techniques while also learning about respect and building confidence in our class designed to intro kids to the “Gentle Art”. Improve balance and agility through games and coordination drills while having a ton of fun! Kids age 8-13."
+		},
+		{
+			"name": "Gi BJJ - Takedowns",
+			"image": "takedowns.jpg",
+			"day": "thursday",
+			"start_time": "19:00",
+			"end_time": "21:30",
+			"color": "7",
+			"description": "Integrate the important aspect of being able to take the match to the ground by learning wrestling and judo techniques. In this class you will explore a variety of trips, picks, and throws. Learn important concepts like level changing, momentum, and timing while you hone your takedowns with positional sparring."
+		},
+		{
+			"name": "Open Mat",
+			"image": "openmat.jpg",
+			"day": "friday",
+			"start_time": "18:00",
+			"end_time": "20:00",
+			"color": "6",
+			"description": "Come out to open mat and apply what you have worked on during the week! Our open mat allows students to troubleshoot and practice new techniques in a non-instructed format. Come to spar, drill, or work on building out your jiu-jitsu game."
+		},
+		{
+			"name": "No Gi Fundamentals",
+			"image": "nogi_fund.jpg",
+			"day": "saturday",
+			"start_time": "11:00",
+			"end_time": "12:00",
+			"color": "9",
+			"description": "Our fundamentals class focuses on the core techniques and positions of BJJ. In this class students learn  takedowns, submissions, escapes, and self defense while keeping the beginner in mind. It’s a great chance for beginners to become more familiar on the mats, and for higher belts to sharpen their skills. Fundamentals is also a great warm up for the the following class, so stick around and learn how to build onto your core techniques."
+		},
+		{
+			"name": "No Gi BJJ",
+			"image": "nogi.jpg",
+			"day": "saturday",
+			"start_time": "12:00",
+			"end_time": "14:30",
+			"color": "5",
+			"description": "Our no-gi classes give students the opportunity to learn jiu-jitsu that is effective without the gi. Learn how to adapt your techniques to a no-gi setting, learn effective no-gi takedowns, and pick up new attacks and defensive techniques to grow both your no-gi and gi jiu jitsu game! We begin the class with a Q&A, so bring any questions you might have about what you learned during the week."
+		}
+	]
+}
