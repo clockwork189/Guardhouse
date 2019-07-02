@@ -137,25 +137,36 @@
 								<input name="email" id="email" type="text" class="form-control" placeholder="E-mail address" required>
 							</div>
 						</div>
-						<div class="form-group">
-    <label for="formTopic">What are you contacting us about?</label>
-    <select class="form-control" id="formTopic">
-      <option value="first-class">I'd like to try my first class</option>
-      <option value="dropin">I'd like to drop in for a class</option>
-      <option value="question">I have a question</option>
+<form class="p-3">
+  <div class="form-group">
+    <label for="seeAnotherField">What are you contacting us about?</label>
+    <select class="form-control" id="seeAnotherField">
+    	<option value="firstClass">Trying a first class</option>
+    	<option value="dropIn">Dropping in for a class</option>
+          <option value="question">Other/question</option>
+          
     </select>
   </div>
-						<div class="form-group">
-							<label for="formTopic">Where do you train currently? How long have you been training?</label>
-							<textarea name="currentgym" id="currentgym" cols="30" rows="2" class="form-control" required></textarea>
-						</div>
-						<div class="form-group"><label for="formTopic">Anything else we should know? Do you have any questions?</label>
-							<textarea name="currentgym" id="currentgym" cols="30" rows="4" class="form-control" required></textarea></div>
+  <div class="form-group" id="dropInDiv">
+    <label for="dropIn">Where do you currently train?</label>
+<input name="currentGym" type="text" class="form-control" required>
+    <label for="dropIn">How long have you been training for?</label>
+<input name="yearsTraining" type="text" class="form-control" required>
+  </div>
 
-						<div class="row">
-							<div class="col-md-4 col-sm-6">
-								<button type="submit" class="btn btn-filled btn-submit btn-block"><span>Send it <i class="i-after ti-arrow-right"></i></span></button>
-							</div>
+    <div class="form-group" id="firstClassDiv">
+    <label for="dropIn">Have you trained in any other martial arts or competed in any other sports?</label>
+<textarea class="form-control" id="comments" rows="2"></textarea>
+    <label for="dropIn">What are you hoping to get out of your jiu-jitsu training?</label>
+<textarea class="form-control" id="comments" rows="2"></textarea>
+  </div>
+
+  <div class="form-group">
+    <label for="comments">Comments/Questions</label>
+    <textarea class="form-control" id="comments" rows="3"></textarea>
+  </div>
+  <button type="submit" class="btn btn-primary">Submit</button>
+</form>
 						</div>
 					</form>
 				</div>
@@ -258,7 +269,7 @@
 <script src="assets/js/plugins.js"></script>
 <script src="assets/js/jquery.magnific-popup.js"></script>
 <script src="assets/js/timetable.js"></script>
-
+<script src="assets/js/hide-show-fields-form.js"></script>
 <!-- JS Core -->
 <script src="assets/js/core.js"></script>
 
